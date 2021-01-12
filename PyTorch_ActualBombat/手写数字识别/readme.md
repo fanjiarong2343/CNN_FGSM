@@ -17,6 +17,6 @@
 
 **结论**
 
-Figure_1![Figure_1](https://img-blog.csdnimg.cn/20210111225145672.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDUwMjAxOA==,size_16,color_FFFFFF,t_70#pic_center)
-Figure_2![Figure_2](https://img-blog.csdnimg.cn/20210111225145876.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDUwMjAxOA==,size_16,color_FFFFFF,t_70#pic_center)
-Figure_3![Figure_3](https://img-blog.csdnimg.cn/20210111225145713.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDUwMjAxOA==,size_16,color_FFFFFF,t_70#pic_center)
+Figure_1![Figure_1](./Figure_1.png)
+Figure_2![Figure_2](./Figure_2.png)
+Figure_3![Figure_3](./Figure_3.png)
